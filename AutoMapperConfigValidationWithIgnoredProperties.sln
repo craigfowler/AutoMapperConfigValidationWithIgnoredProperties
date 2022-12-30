@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperConfigValidationWithIgnoredProperties", "AutoMapperConfigValidationWithIgnoredProperties\AutoMapperConfigValidationWithIgnoredProperties.csproj", "{A977D9BE-9496-42B2-A980-07E11CE37535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperConfigValidationWithIgnoredPropertiesTests", "AutoMapperConfigValidationWithIgnoredPropertiesTests\AutoMapperConfigValidationWithIgnoredPropertiesTests.csproj", "{964D57F9-6E53-4EBE-8E32-152D1A9ED703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A977D9BE-9496-42B2-A980-07E11CE37535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A977D9BE-9496-42B2-A980-07E11CE37535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A977D9BE-9496-42B2-A980-07E11CE37535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A977D9BE-9496-42B2-A980-07E11CE37535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964D57F9-6E53-4EBE-8E32-152D1A9ED703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964D57F9-6E53-4EBE-8E32-152D1A9ED703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964D57F9-6E53-4EBE-8E32-152D1A9ED703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964D57F9-6E53-4EBE-8E32-152D1A9ED703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
